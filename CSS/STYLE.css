@@ -1,0 +1,310 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: black;
+}
+.navlist{
+    display: flex;
+    margin-top: 10px;
+    background-color: black;
+    padding: 12px;
+}
+
+ul li{
+    list-style: none;
+}
+
+ul li a{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+li a:hover{
+    font-size: 26px;
+    color: gray;
+}
+#input1{
+    font-size: 16px;
+    border: 2px solid white;
+    border-radius: 4px;
+    padding: 2px;
+    margin-left: 20px;
+}
+#btn-sm{
+    margin-left: 10px;
+    border-radius: 4px;
+    border:2px solid white ;
+    padding: 3px;
+    color: white;
+    background-color: black;
+    font-size: 14px;
+}
+#btn-sm:hover{
+    font-size: 16px;
+    cursor: pointer;
+}
+.burger{
+    display: none;
+    position: absolute;
+    cursor: pointer;
+    right: 5%;
+    top:20px;
+}
+.lines{
+    width: 33px;
+    background-color: red;
+    height: 4px;
+    margin: 3px;
+    justify-content: center;
+}
+.nike-img{
+    margin-top: 25px;
+
+}
+.nike-img br{
+    display: none;
+}
+
+.h-featured{
+    margin-left: 50px;
+    margin-top: 60px;
+}
+.container1{
+    margin-left: 50px;
+    margin-top: 50px;
+    display: flex;
+}
+.container1 .containerA{
+    margin-right: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+.container1 .containerB{
+    margin-right: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+.container1 .containerC{
+    margin-right: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+.container1 .containerD{
+    margin-right: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+.container1 .containerE{
+    margin-right: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+.more1{
+    margin-top: 80px;
+    
+}
+.more1 a{
+    list-style: none;
+    color: blue;
+    font-size: 18px;
+
+}
+.more1 a:hover{
+    font-size: 20px;
+}
+
+
+.shoes{
+    font-weight: bold;
+}
+.price{
+    font-weight: bold;
+}
+.buy{
+    color: blue;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.buy:hover{
+    font-size: 24px;
+    cursor: pointer;
+}
+.h-mens{
+    margin-left: 50px;
+}
+.container2{
+    display: flex;
+    margin-top: 25px;
+}
+.container2 .containerA{
+    margin-left: 50px;
+    margin-right: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+.container2 .containerB{
+    margin-right: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+.container2 .containerB img{
+    height: 225px;
+}
+.container2 .containerC{
+    margin-right: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+.container2 .containerC img{
+    height: 225px;
+}
+.container2 .containerD{
+    margin-right: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+.container2 .containerD img{
+    height: 225px;
+}
+.container2 .containerE{
+    margin-right: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+.container2 .containerE img{
+    height: 225px;
+}
+
+.more2{
+    margin-top: 80px;
+    
+}
+.more2 a{
+    list-style: none;
+    color: blue;
+    font-size: 18px;
+
+}
+.more2 a:hover{
+    font-size: 20px;
+}
+.h-women{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.container3{
+    margin-top: 25px;
+    display: flex;
+    margin-left: 50px;
+    text-align: center;
+}
+.container3 .containerA{
+    margin-right: 15px;
+    font-size: 18px;
+}
+.container3 .containerA img{
+    height: 225px;
+}
+.container3 .containerB{
+    margin-right: 15px;
+    font-size: 18px;
+}
+.container3 .containerB img{
+    height: 225px;
+}
+.container3 .containerC{
+    margin-right: 15px;
+    font-size: 18px;
+}
+.container3 .containerC img{
+    height: 225px;
+}
+.container3 .containerD{
+    margin-right: 15px;
+    font-size: 18px;
+}
+.container3 .containerD img{
+    height: 225px;
+}
+.container3 .containerE{
+    margin-right: 15px;
+    font-size: 18px;
+}
+.container3 .containerE img{
+    height: 225px;
+}
+.more3{
+    margin-top: 80px;
+    
+}
+.more3 a{
+    list-style: none;
+    color: blue;
+    font-size: 18px;
+
+}
+.more3 a:hover{
+    font-size: 20px;
+}
+.promotion{
+    text-align: center;
+}
+.promotion .br1{
+    display: none;
+}
+.promotion .br2{
+    display: none;
+}
+.check{
+    font-size: 20px;
+}
+.check:hover{
+    font-size: 24px;   
+}
+.contact{
+    text-align: center;
+    background-color: rgb(209, 206, 202);
+    height: 470px;   
+}
+.h-contact{
+    margin-top: 20px;
+    padding-top: 20px;
+}
+#input2{
+    margin-top: 10px;
+    font-size: 22px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+#sub-btn{
+    margin-top: 15px;
+    font-size: 20px;
+    padding: 5px;
+    color: white;
+    background-color: blue;
+    border: 2px solid black;
+    border-radius: 7px;
+    margin-bottom: 10px;
+}
+#sub-btn:hover{
+    font-size: 22px;
+    cursor: pointer;
+}
+.copyright{
+    text-align: center;
+    background-color:black;
+    color: white;
+    height: 40px;
+    margin-bottom: 20px;
+    padding-top: 15px;
+}
+
+.copyright br{
+    display: none;
+}
+ 

@@ -1,0 +1,727 @@
+@media screen and (max-width:1300px) {
+    .more1{
+        margin-top: 320px;
+        margin-left: -630px;
+    }
+    .h-mens{
+        margin-top: 25px;
+        
+    }
+}
+@media screen and (max-width:1295px) {
+   
+   .h-mens{
+        margin-top: 30px;
+    }
+   .more2{
+        margin-top: 320px;
+        margin-left: -560px;
+    }
+    .h-women{
+        margin-top: 40px;
+    }
+    .more3{
+        margin-top: 315px;
+        margin-left: -515px;
+    }
+    .promotion{
+        margin-top: 25px;
+    }
+    #input2{
+        margin-top: 20px;
+    }
+
+}
+
+@media screen and (max-width:1230px) {
+    .container1 .containerA img{
+        width: 200px;
+    }
+    .container1 .containerB img{
+        width: 200px;
+    }
+    .container1 .containerC img{
+        width: 200px;
+    }
+    .container1 .containerD img{
+        width: 200px;
+    }
+    .container1 .containerE img{
+        width: 200px;
+    }
+    .more1{
+        margin-left: -550px;
+        margin-top: 310px;
+    }
+    .more2{
+        margin-left: -610px;
+    }
+    .more3{
+        margin-left: -565px;
+    }
+    .container2 .containerA img{
+        width: 200px;
+    }
+    .container2 .containerB img{
+        width: 200px;
+        height: 230px;
+    }
+    .container2 .containerC img{
+        width: 200px;
+        height: 230px;
+    }
+    .container2 .containerD img{
+        width: 200px;
+        height: 230px;
+    }
+    .container2 .containerE img{
+        width: 200px;
+        height: 230px;
+    }
+    .container3 .containerA img{
+        width: 200px;
+    }
+    .container3 .containerB img{
+        width: 200px;
+    }
+    .container3 .containerC img{
+        width: 200px;
+    }
+    .container3 .containerD img{
+        width: 200px;
+    }
+    .container3 .containerE img{
+        width: 200px;
+    }
+}
+
+@media screen and (max-width:1130px) {
+    .featured{
+        margin-left: 20px;
+    }
+    .container1 .containerA img{
+        width: 180px;
+    }
+    .container1 .containerB img{
+        width: 180px;
+    }
+    .container1 .containerC img{
+        width: 180px;
+    }
+    .container1 .containerD img{
+        width: 180px;
+    }
+    .container1 .containerE img{
+        width: 180px;
+    }
+    .more1{
+        margin-top: 290px;
+        margin-left: -515px;
+    }
+    .container2 .containerA img{
+        width: 180px;
+        height: 225px;
+    }
+    .container2 .containerB img{
+        width: 180px;
+        height: 225px;
+    } .container2 .containerC img{
+        width: 180px;
+        height: 225px;
+    } .container2 .containerD img{
+        width: 180px;
+        height: 225px;
+    } .container2 .containerE img{
+        width: 180px;
+        height: 225px;
+    }
+    .more2{
+        margin-left: -530px;
+    }
+    .container3 .containerA img{
+        width: 180px;
+    }
+    .container3 .containerB img{
+        width: 180px;
+    }
+    .container3 .containerC img{
+        width: 180px;
+    }
+    .container3 .containerD img{
+        width: 180px;
+    }
+    .container3 .containerE img{
+        width: 180px;
+    }
+    .more3{
+        margin-left: -490px;
+    }
+}
+
+@media screen and (max-width:1030px) {
+    .container1 .containerA img{
+        width: 160px;
+    }
+    .container1 .containerB img{
+        width: 160px;
+    }
+    .container1 .containerC img{
+        width: 160px;
+    }
+     .container1 .containerD img{
+        width: 160px;
+    }
+     .container1 .containerE img{
+        width: 160px;
+    }
+    .more1{
+        margin-top: 270px;
+        margin-left: -470px;
+    }
+    .container2 .containerA img{
+        width: 160px;
+    }
+    .container2 .containerB img{
+        width: 160px;
+        height: 225px;
+    }
+    .container2 .containerC img{
+        width: 160px;
+        height: 225px;
+    }  .container2 .containerD img{
+        width: 160px;
+        height: 225px;
+    }  .container2 .containerE img{
+        width: 160px;
+        height: 225px;
+    }
+    .more2{
+        margin-left: -480px;
+    }
+    .container3 .containerA img{
+        width: 160px;
+    }
+    .container3 .containerB img{
+        width: 160px;
+    }
+    .container3 .containerC img{
+        width: 160px;
+    }
+     .container3 .containerD img{
+        width: 160px;
+    }
+     .container3 .containerE img{
+        width: 160px;
+    } 
+    .more3{
+        margin-left: -480px;
+    }   
+}
+
+@media screen and (max-width:930px) {
+    .container1 .containerA{
+        margin-right: 0;
+
+    }
+    .container1 .containerA img{
+        width: 140px;
+        height: 190px;
+    }
+    .container1 .containerB img{
+        width: 140px;
+        height: 190px;
+
+    }
+    .container1 .containerC img{
+        width: 140px;
+        height: 190px;
+
+    }
+    .container1 .containerD img{
+        width: 140px;
+        height: 190px;
+
+    }
+    .container1 .containerE img{
+        width: 140px;
+        height: 190px;
+
+    }
+    .more1{
+        margin-top: 280px;
+        margin-left: -410px;
+    }
+    .container2 .containerA img{
+        width: 140px;
+    }
+    .container2 .containerB img{
+        width: 140px;
+        height: 225px;
+    }
+    .container2 .containerC img{
+        width: 140px;
+        height: 225px;
+    }
+    .container2 .containerD img{
+        width: 140px;
+        height: 225px;
+    }
+    .container2 .containerE img{
+        width: 140px;
+        height: 225px;
+    }
+    .more2{
+        margin-left: -430px;
+        margin-top: 330px;
+    }
+    .container3 .containerA img{
+        width: 140px;
+    }
+    .container3 .containerB img{
+        width: 140px;
+    }
+    .container3 .containerC img{
+        width: 140px;
+    }
+    .container3 .containerD img{
+        width: 140px;
+    }
+    .container3 .containerE img{
+        width: 140px;
+    }
+    .more3{
+        margin-left: -400px;
+    }
+    .promotion br{
+        display: block;
+    }
+}
+
+@media screen and (max-width:850px) {
+    .container1 .containerA img{
+        width: 120px;
+        height: 190px;
+    }
+    .container1 .containerB img{
+        width: 120px;   
+        height: 190px;
+    }
+    .container1 .containerC img{
+        width: 120px;   
+        height: 190px;
+    } .container1 .containerD img{
+        width: 120px;   
+        height: 190px;
+    } .container1 .containerE img{
+        width: 120px;   
+        height: 190px;
+    }
+    .more1{
+        margin-top: 280px;
+        margin-left: -365px;
+    }
+    .container2 .containerA img{
+        width: 115px;
+        height: 190px;
+    }
+    .container2 .containerB img{
+        width: 115px;
+        height: 190px;
+
+    }
+    .container2 .containerC img{
+        width: 115px;
+        height: 190px;
+
+    }
+     .container2 .containerD img{
+        width: 115px;
+        height: 190px;
+
+    } 
+    .container2 .containerE img{
+        width: 115px;
+        height: 190px;
+
+    }
+
+    .more2{
+        margin-left: -370px;
+        margin-top: 285px;
+    }
+   
+    .container3 .containerA img{
+        width: 120px;
+    }
+    .container3 .containerB img{
+        width: 120px;
+    }
+    .container3 .containerC img{
+        width: 120px;
+    }
+    .container3 .containerD img{
+        width: 120px;
+    }
+    .container3 .containerE img{
+        width: 120px;
+    }
+    .more3{
+        margin-left: -340px;
+    }
+}
+
+@media screen and (max-width:743px) {
+    .nike-img img{
+        width: 500px;
+    }
+    .navlist{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    ul li {
+        padding: 10px;
+    }
+    #input1{
+        align-self: center;
+        margin-left: 0;
+        margin-top: 5px;
+    }
+    #btn-sm{
+        margin-top: 15px;
+        align-self: center;
+        margin-left: -10px;
+    }
+    .burger{
+        display:block;
+    }
+    .h-nav-resp{
+    height: 50px;
+    }
+    .v-class-resp{
+        opacity: 0;
+    }
+    .navlist{
+        height: 255px;
+    }
+    .container1{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .container1 .containerA{
+        margin-right: 5px;
+    }
+    .container1 .containerB{
+        margin-right: 10px;
+    }
+    .container1 .containerC{
+        margin-right: 10px;
+    }
+     .container1 .containerD{
+        margin-right: 10px;
+    }
+     .container1 .containerE{
+        margin-right: 10px;
+    }
+    .featured .containerA img{
+        width: 150px;
+    }
+   .featured .container img{
+       width: 150px;
+   }
+   .more1{
+       margin-left: 270px;
+       margin-top: 20px;
+   }
+   .h-mens{
+       margin-top: 40px;
+   }
+   .container2{
+    display: flex;
+    flex-wrap: wrap;
+   }
+   .container2 .containerA img{
+       width: 150px;
+   }
+   .container2 .containerB img{
+       width: 150px;
+   }
+   .container2 .containerC img{
+    width: 150px;
+} .container2 .containerD img{
+    width: 150px;
+}
+.container2 .containerE img{
+    width: 150px;
+    margin-left: 40px;
+}
+   .more2{
+    margin-left: 0;
+    margin-top: 100px;
+}
+.container3{
+    display: flex;
+    flex-wrap: wrap;
+}
+.container3 .containerA img{
+    width: 150px;
+}
+.container3 .containerB img{
+    width: 150px;
+}
+.container3 .containerC img{
+    width: 150px;
+}
+.container3 .containerD img{
+    width: 150px;
+}
+.container3 .containerE img{
+    width: 150px;
+    margin-left: 20px;
+}
+.more3{
+ margin-left: 0;
+ margin-top: 100px;
+}
+.nike-img br{
+    display: block;
+}
+
+.copyright{
+    margin-bottom: 0;
+}
+}
+@media screen and (max-width:709px) {
+    .container2{
+        margin-left: 50px;
+    }
+    .container2 .containerD{
+        margin-left: 50px;
+    }
+    .container2 .containerD img{
+        margin-left: 40px;
+
+    }
+    .container2 .containerE img{
+        margin-left: 20px;
+    }
+    .container3{
+        margin-left: 50px;
+    } 
+    .container3 .containerA {
+        margin-left: 40px;
+    }
+    .container3 .containerD {
+        margin-left: 90px;
+    }
+}
+@media screen and (max-width:694px) {
+   .container1{
+       margin-left: 75px;
+   }
+    .container1 .containerE img{
+       margin-left: 30px;
+   }
+   .more1{
+        margin-left: 30px;
+        margin-top: 80px;
+   }
+}
+
+@media screen and (max-width:678px) {
+    .featured .container{
+        margin-left: 10px;
+    }
+}
+
+@media screen and (max-width:678px) {
+    .women .container{
+        margin-left: 10px;
+    }
+}
+
+@media screen and (max-width:678px) {
+    .nike-img img{
+        width: 300px;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .container1 .containerA{
+        margin-left: 5px;
+    }
+    .container1 .containerB{
+        margin-left: 15px;
+    }
+    .container1 .containerC{
+        margin-left: 15px;
+    }
+     .container1 .containerD{
+        margin-left: 60px;
+        margin-right: 0;
+    }
+    .container1 .containerE{
+        margin-right: 0;
+    }
+    .container2 .containerA{
+        margin-left: 0;
+    }
+    .container2 .containerD{
+        margin-left: 10px;
+    }
+    .container3 .containerA{
+        margin-left: 5px;
+    }
+    .container3 .containerD{
+        margin-left: 50px;
+    }
+    
+}
+
+@media screen and (max-width:544px) {
+    .container2 .containerA{
+        margin-left: 50px;
+    }
+    .container2 .containerB img{
+        margin-left: 25px;
+    }
+    .container2 .containerC{
+        margin-left: 50px;
+        margin-right: 0;
+    }
+    .container2 .containerD img{
+        margin-left: 25px;
+    }
+    .container2 .containerE {
+        margin-left: 100px;
+    }
+    .more1{
+        margin-left: -175px;
+        margin-top: 300px;
+    }
+    .more2{
+        margin-left: -130px;
+        margin-top: 280px;
+    }
+    .container3{
+        margin-left: 75px;
+    }
+    .container3 .containerB{
+        margin-right: 0;
+        margin-left: 20px;
+    }
+    .container3 .containerD{
+        margin-left: 20px;
+    }
+    .container3 .containerE{
+        margin-left: 75px;
+    }
+    .more3{
+        margin-left: -135px;
+        margin-top: 320px;
+    }
+}
+
+@media screen and (max-width:539px) {
+    .nike-img br{
+        display: block;
+    }
+   
+  
+}
+
+@media screen and (max-width:520px) {
+   .container1 .containerA{
+       margin-left: -20px;
+   }
+  
+}
+
+@media screen and (max-width:469px) {
+    .container1{
+        margin-left: 40px;
+    }
+    .container1 .containerA{
+        margin-left: 30px;
+    }
+    .container1 .containerB{
+        margin-left: 30px;
+    }
+    .container1 .containerC{
+        margin-left: 30px;
+    }
+    .container1 .containerD{
+        margin-left: 30px;
+    }
+    .container1 .containerE{
+        margin-left: 65px;
+    }
+    .more1{
+        margin-left:-100px;
+    }
+    .container2{
+        margin-left:10px;
+    }
+    .container2 .containerE{
+        margin-left: 110px;
+    }
+    .container3{
+        margin-left: 40px;
+    }
+
+}
+
+
+@media screen and (max-width:450px) {
+    #input2{
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width:415px) {
+    .container2{
+        margin-left: -15px;
+    }
+    .promotion{
+        font-size: 16px;
+    }
+}
+@media screen and (max-width:415px) {
+.container1{
+    margin-left: 15px;
+}
+.container2{
+    margin-left: -20px;
+}
+.container3{
+    margin-left: 20px;
+}
+}
+
+@media screen and (max-width:395px) {
+    .container2 .containerB img{
+        margin-left: 0;
+    }
+    .container2 .containerB{
+        margin-left: ;
+    }
+    .container2 .containerD img{
+        margin-left: 0;
+    }
+    .container2 .containerB{
+        margin-left: -10px;
+    }
+    .container3 .containerB{
+        margin-left: 5px;
+    }
+    .container3 .containerD{
+        margin-left: 5px;
+    }
+    .copyright br{
+        display: block;
+    }
+    .copyright{
+        height: 50px;
+    }
+}
